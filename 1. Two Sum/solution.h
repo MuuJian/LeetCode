@@ -5,7 +5,8 @@ public:
         for(int a = 0; a < nums.size(); ++a)
         {
             m[nums[a]] = a;
-        }
+        }   // map访问下标(key)如果不存在会插入新的pair value取默认值
+
         
         for(int a = 0; a < nums.size(); ++a)
         {
