@@ -1,8 +1,8 @@
 LeetCode
 ========
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-xairzy-brightgreen.svg)](https://github.com/xairzy/LeetCode) 
-[![GitHub issues](https://img.shields.io/github/issues/xairzy/LeetCode.svg?colorB=blue)](https://github.com/xairzy/LeetCode/issues)
+[![LeetCode](https://img.shields.io/badge/LeetCode-MuuJian-brightgreen.svg)](https://github.com/MuuJian/LeetCode) 
+[![GitHub issues](https://img.shields.io/github/issues/MuuJian/LeetCode.svg?colorB=blue)](https://github.com/MuuJian/LeetCode/issues)
 
 
 LeetCode solutions in C++ 11.
@@ -14,3 +14,6 @@ LeetCode solutions in C++ 11.
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[C++](147.%20Insertion%20Sort%20List/solution.h)|Medium|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](232.%20Implement%20Queue%20using%20Stacks/solution.h)|Easy|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[C++](680.%20Valid%20Palindrome%20II/solution.h)|Easy|
+|1248|[Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)|[C++](1248.%20Count%20Number%20of%20Nice%20Subarrays/solution.h)|Medium|
+
+
