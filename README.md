@@ -14,6 +14,5 @@ LeetCode solutions in C++ 11.
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[C++](147.%20Insertion%20Sort%20List/solution.h)|Medium|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](232.%20Implement%20Queue%20using%20Stacks/solution.h)|Easy|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[C++](680.%20Valid%20Palindrome%20II/solution.h)|Easy|
+|693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[C++](693.%20Binary%20Number%20with%20Alternating%20Bits/solution.h)|Easy|
 |1248|[Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)|[C++](1248.%20Count%20Number%20of%20Nice%20Subarrays/solution.h)|Medium|
-
-
