@@ -11,6 +11,7 @@ LeetCode solutions in C++ 11.
 |---|-----|--------|----------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](1.%20Two%20Sum/solution.h)|Easy|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[C++](92.%20Reverse%20Linked%20List%20II/solution.h)|Easy|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[C++](64.%20Minimum%20Path%20Sum/solution.h)|Medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[C++](147.%20Insertion%20Sort%20List/solution.h)|Medium|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](232.%20Implement%20Queue%20using%20Stacks/solution.h)|Easy|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[C++](680.%20Valid%20Palindrome%20II/solution.h)|Easy|
