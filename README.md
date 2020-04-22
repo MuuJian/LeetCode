@@ -20,6 +20,7 @@ LeetCode solutions in C++ 11.
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[C++](300.%20Longest%20Increasing%20Subsequence/solution.h)|Medium|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[C++](680.%20Valid%20Palindrome%20II/solution.h)|Easy|
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[C++](693.%20Binary%20Number%20with%20Alternating%20Bits/solution.h)|Easy|
+|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[C++](724.%20Find%20Pivot%20Index/solution.h)|Easy|
 |740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[C++](740.%20Delete%20and%20Earn/solution.h)|Medium|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[C++](1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/solution.h)|Medium|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[C++](1154.%20Day%20of%20the%20Year/solution.h)|e|
