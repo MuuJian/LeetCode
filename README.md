@@ -10,10 +10,11 @@ LeetCode solutions in C++ 11.
 |NO.|Title|Solution|Difficulty|
 |---|-----|--------|----------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](1.%20Two%20Sum/solution.h)|Easy|
-|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](35.%20Search%20Insert%20Position/solution.h)|e|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](35.%20Search%20Insert%20Position/solution.h)|Easy|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[C++](64.%20Minimum%20Path%20Sum/solution.h)|Medium|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[C++](92.%20Reverse%20Linked%20List%20II/solution.h)|Easy|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[C++](147.%20Insertion%20Sort%20List/solution.h)|Medium|
+|198|[House Robber](https://leetcode.com/problems/house-robber/)|[C++](198.%20House%20Robber/solution.h)|Easy|
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|[C++](214.%20Shortest%20Palindrome/solution.h)|Hard|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[C++](230.%20Kth%20Smallest%20Element%20in%20a%20BST/solution.h)|Medium|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](232.%20Implement%20Queue%20using%20Stacks/solution.h)|Easy|
