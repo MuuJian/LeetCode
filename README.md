@@ -10,6 +10,7 @@ LeetCode solutions in C++ 11.
 |NO.|Title|Solution|Difficulty|
 |---|-----|--------|----------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](1.%20Two%20Sum/solution.h)|Easy|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](35.%20Search%20Insert%20Position/solution.h)|e|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[C++](64.%20Minimum%20Path%20Sum/solution.h)|Medium|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[C++](92.%20Reverse%20Linked%20List%20II/solution.h)|Easy|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[C++](147.%20Insertion%20Sort%20List/solution.h)|Medium|
@@ -27,4 +28,3 @@ LeetCode solutions in C++ 11.
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/)|[C++](1143.%20Longest%20Common%20Subsequence/solution.h)|Medium|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[C++](1154.%20Day%20of%20the%20Year/solution.h)|Easy|
 |1248|[Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)|[C++](1248.%20Count%20Number%20of%20Nice%20Subarrays/solution.h)|Medium|
-
