@@ -20,6 +20,8 @@ LeetCode solutions in C++ 11.
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](232.%20Implement%20Queue%20using%20Stacks/solution.h)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[C++](263.%20Ugly%20Number/solution.h)|Easy|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[C++](300.%20Longest%20Increasing%20Subsequence/solution.h)|Medium|
+|322|[Coin Change](https://leetcode.com/problems/coin-change/)|[C++](322.%20Coin%20Change/solution.h)|Medium|
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[C++](485.%20Max%20Consecutive%20Ones/solution.h)|Easy|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[C++](680.%20Valid%20Palindrome%20II/solution.h)|Easy|
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[C++](693.%20Binary%20Number%20with%20Alternating%20Bits/solution.h)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[C++](724.%20Find%20Pivot%20Index/solution.h)|Easy|
