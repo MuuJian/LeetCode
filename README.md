@@ -15,6 +15,7 @@ LeetCode solutions in C++ 11.
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[C++](92.%20Reverse%20Linked%20List%20II/solution.h)|Easy|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[C++](147.%20Insertion%20Sort%20List/solution.h)|Medium|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[C++](198.%20House%20Robber/solution.h)|Easy|
+|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[C++](213.%20House%20Robber%20II/solution.h)|Medium|
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|[C++](214.%20Shortest%20Palindrome/solution.h)|Hard|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[C++](230.%20Kth%20Smallest%20Element%20in%20a%20BST/solution.h)|Medium|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](232.%20Implement%20Queue%20using%20Stacks/solution.h)|Easy|
