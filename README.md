@@ -11,6 +11,7 @@ LeetCode solutions in C++ 11.
 |---|-----|--------|----------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](1.%20Two%20Sum/solution.h)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](35.%20Search%20Insert%20Position/solution.h)|Easy|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](53.%20Maximum%20Subarray/solution.h)|Easy|
 |63|Unique Paths II(https://leetcode.com/problems/unique-paths-ii/)|[C++](63.%20Unique%20Paths%20II/solution.h)|Medium|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[C++](64.%20Minimum%20Path%20Sum/solution.h)|Medium|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[C++](92.%20Reverse%20Linked%20List%20II/solution.h)|Easy|
