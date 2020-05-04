@@ -23,6 +23,7 @@ LeetCode solutions in C++ 11.
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[C++](230.%20Kth%20Smallest%20Element%20in%20a%20BST/solution.h)|Medium|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](232.%20Implement%20Queue%20using%20Stacks/solution.h)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[C++](263.%20Ugly%20Number/solution.h)|Easy|
+|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[C++](264.%20Ugly%20Number%20II/solution.h)|Medium|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[C++](300.%20Longest%20Increasing%20Subsequence/solution.h)|Medium|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[C++](322.%20Coin%20Change/solution.h)|Medium|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[C++](485.%20Max%20Consecutive%20Ones/solution.h)|Easy|
