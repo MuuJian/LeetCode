@@ -22,6 +22,7 @@ LeetCode solutions in C++ 11.
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|[C++](214.%20Shortest%20Palindrome/solution.h)|Hard|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[C++](230.%20Kth%20Smallest%20Element%20in%20a%20BST/solution.h)|Medium|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](232.%20Implement%20Queue%20using%20Stacks/solution.h)|Easy|
+|233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|[C++](233.%20Number%20of%20Digit%20One/solution.h)|Hard|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[C++](263.%20Ugly%20Number/solution.h)|Easy|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[C++](264.%20Ugly%20Number%20II/solution.h)|Medium|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[C++](300.%20Longest%20Increasing%20Subsequence/solution.h)|Medium|
