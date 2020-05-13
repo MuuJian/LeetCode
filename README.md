@@ -34,6 +34,7 @@ LeetCode solutions in C++ 11.
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[C++](322.%20Coin%20Change/solution.h)|Medium|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[C++](324.%20Wiggle%20Sort%20II/solution.h)|Medium|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[C++](485.%20Max%20Consecutive%20Ones/solution.h)|Easy|
+|589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[C++](589.%20N-ary%20Tree%20Preorder%20Traversal/solution.h)|Easy|
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[C++](653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/solution.h)|Easy|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[C++](680.%20Valid%20Palindrome%20II/solution.h)|Easy|
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[C++](693.%20Binary%20Number%20with%20Alternating%20Bits/solution.h)|Easy|
