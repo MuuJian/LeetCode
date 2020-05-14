@@ -14,7 +14,7 @@ public:
         {
             ListNode *t = head -> next;
             curr = dummy;
-            while(curr -> next != NULL && curr -> next -> val <= head -> val)
+            while(curr -> next != nullptr && curr -> next -> val <= head -> val)
             {
                 curr = curr -> next;
             }

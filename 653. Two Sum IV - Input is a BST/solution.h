@@ -18,7 +18,7 @@ public:
     
     bool helper(TreeNode* root, unordered_set<int>& s, int target)
     {
-        if(root == NULL) return false;
+        if(root == nullptr) return false;
         if(s.count(target - root -> val)) return true;
         s.insert(root -> val);
         return helper(root -> left, s, target) || helper(root -> right, s, target);
@@ -32,7 +32,7 @@ public:
 class Solution {
 public:
     bool findTarget(TreeNode* root, int k) {
-        if(root == NULL) return false;
+        if(root == nullptr) return false;
         unordered_map<int, int> m;
         vector<int> v;
         PreTraverse(root, v);
@@ -54,7 +54,7 @@ public:
     
     void PreTraverse(TreeNode* root, vector<int>& v)
     {
-        if(root != NULL)
+        if(root != nullptr)
         {
             v.push_back(root -> val);
             PreTraverse(root -> left, v);
@@ -69,7 +69,7 @@ public:
 class Solution {
 public:
     bool findTarget(TreeNode* root, int k) {
-        if(root == NULL) return false;
+        if(root == nullptr) return false;
         vector<int> v;
         InTraverse(root, v);
         for(int i = 0, j = static_cast<int>(v.size() - 1); i < j;)
@@ -82,7 +82,7 @@ public:
     
     void InTraverse(TreeNode* root, vector<int>& v)
     {
-        if(root != NULL)
+        if(root != nullptr)
         {
             InTraverse(root -> left, v);
             v.push_back(root -> val);

@@ -4,7 +4,7 @@
  *     int val;
  *     TreeNode *left;
  *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
  * };
  */
 class Solution {
@@ -16,7 +16,7 @@ public:
     TreeNode* Helper(vector<int>& preorder, int start, int end)
     {
         if(start >= end)
-            return NULL;
+            return nullptr;
         TreeNode* node = new TreeNode(preorder[start]);
         int spiltnum = start;
         while(spiltnum < end && preorder[spiltnum] <= preorder[start])

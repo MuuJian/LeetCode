@@ -29,7 +29,7 @@ public:
         {
             Node* node = s.top();
             s.pop();
-            if(node == NULL) continue;
+            if(node == nullptr) continue;
             res.push_back(node -> val);
             for (int i = node -> children.size() - 1; i >= 0; --i) 
             {
