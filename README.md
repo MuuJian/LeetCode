@@ -36,6 +36,8 @@ LeetCode solutions in C++ 11.
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[C++](485.%20Max%20Consecutive%20Ones/solution.h)|Easy|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[C++](581.%20Shortest%20Unsorted%20Continuous%20Subarray/solution.h)|Easy|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[C++](589.%20N-ary%20Tree%20Preorder%20Traversal/solution.h)|Easy|
+|628|[Maximum Product of Three Numbers
+](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[C++](628.%20Maximum%20Product%20of%20Three%20Numbers/solution.h)|Easy|
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[C++](653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/solution.h)|Easy|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[C++](680.%20Valid%20Palindrome%20II/solution.h)|Easy|
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[C++](693.%20Binary%20Number%20with%20Alternating%20Bits/solution.h)|Easy|
