@@ -48,6 +48,7 @@ LeetCode solutions in C++ 11.
 |846|[846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[C++](846.%20Hand%20of%20Straights/solution.h)|Medium|
 |915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[C++](915.%20Partition%20Array%20into%20Disjoint%20Intervals/solution.h)|Medium|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[C++](1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/solution.h)|Medium|
+|1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[C++](1041.%20Robot%20Bounded%20In%20Circle/solution.h)|Medium|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/)|[C++](1143.%20Longest%20Common%20Subsequence/solution.h)|Medium|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[C++](1154.%20Day%20of%20the%20Year/solution.h)|Easy|
 |1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[C++](1218.%20Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference/solution.h)|Medium|
