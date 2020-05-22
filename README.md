@@ -12,6 +12,7 @@ LeetCode solutions in C++ 11.
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](1.%20Two%20Sum/solution.h)|Easy|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](4.%20Median%20of%20Two%20Sorted%20Arrays/solution.h)|Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](5.%20Longest%20Palindromic%20Substring/solution.h)|Medium|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](21.%20Merge%20Two%20Sorted%20Lists/solution.h)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](35.%20Search%20Insert%20Position/solution.h)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](53.%20Maximum%20Subarray/solution.h)|Easy|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[C++](63.%20Unique%20Paths%20II/solution.h)|Medium|
