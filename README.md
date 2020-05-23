@@ -55,3 +55,4 @@ LeetCode solutions in C++ 11.
 |1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[C++](1218.%20Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference/solution.h)|Medium|
 |1248|[Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)|[C++](1248.%20Count%20Number%20of%20Nice%20Subarrays/solution.h)|Medium|
 |1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[C++](1262.%20Greatest%20Sum%20Divisible%20by%20Three/solution.h)|Medium|
+|1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[C++](1331.%20Rank%20Transform%20of%20an%20Array/solution.h)||
