@@ -2,7 +2,7 @@ class Solution {
 public:
     bool isNStraightHand(vector<int>& hand, int W) {
         map<int, int> m;
-        for(int num : hand)
+        for(auto num : hand)
         {
             ++m[num];
         }
@@ -30,7 +30,7 @@ public:
         if(hand.size() % W != 0) return false;
         const int r = *max_element(hand.begin(), hand.end());
         vector<int> nums(r + W, 0);
-        for(int num : hand)
+        for(auto num : hand)
         {
             ++nums[num];
         }

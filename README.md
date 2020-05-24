@@ -52,6 +52,7 @@ LeetCode solutions in C++ 11.
 |1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[C++](1041.%20Robot%20Bounded%20In%20Circle/solution.h)|Medium|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/)|[C++](1143.%20Longest%20Common%20Subsequence/solution.h)|Medium|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[C++](1154.%20Day%20of%20the%20Year/solution.h)|Easy|
+|1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[C++](1207.%20Unique%20Number%20of%20Occurrences/solution.h)|Easy|
 |1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[C++](1218.%20Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference/solution.h)|Medium|
 |1248|[Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)|[C++](1248.%20Count%20Number%20of%20Nice%20Subarrays/solution.h)|Medium|
 |1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[C++](1262.%20Greatest%20Sum%20Divisible%20by%20Three/solution.h)|Medium|

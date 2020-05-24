@@ -4,7 +4,7 @@ public:
         if(nums.empty()) return 0;
         const int r = *max_element(nums.begin(), nums.end());
         vector<int> sums(r + 1, 0);
-        for(int num : nums)
+        for(auto num : nums)
         {
             sums[num] += num;
         }
