@@ -48,6 +48,7 @@ LeetCode solutions in C++ 11.
 |767|[Reorganize String](https://leetcode.com/problems/reorganize-string/)|[C++](767.%20Reorganize%20String/solution.h)|Medium|
 |846|[846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[C++](846.%20Hand%20of%20Straights/solution.h)|Medium|
 |915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[C++](915.%20Partition%20Array%20into%20Disjoint%20Intervals/solution.h)|Medium|
+|917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[C++](917.%20Reverse%20Only%20Letters/solution.h)|Easy|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[C++](1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/solution.h)|Medium|
 |1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[C++](1041.%20Robot%20Bounded%20In%20Circle/solution.h)|Medium|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/)|[C++](1143.%20Longest%20Common%20Subsequence/solution.h)|Medium|
@@ -56,4 +57,5 @@ LeetCode solutions in C++ 11.
 |1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[C++](1218.%20Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference/solution.h)|Medium|
 |1248|[Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)|[C++](1248.%20Count%20Number%20of%20Nice%20Subarrays/solution.h)|Medium|
 |1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[C++](1262.%20Greatest%20Sum%20Divisible%20by%20Three/solution.h)|Medium|
-|1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[C++](1331.%20Rank%20Transform%20of%20an%20Array/solution.h)||
+|1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[C++](1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/solution.h)|Easy|
+|1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[C++](1331.%20Rank%20Transform%20of%20an%20Array/solution.h)|Easy|

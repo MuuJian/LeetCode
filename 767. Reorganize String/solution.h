@@ -3,7 +3,7 @@ public:
      string reorganizeString(string S) {
          int n = S.size(), idx = 1;
          vector<int> cnt(26, 0);
-         for(char c : S)
+         for(auto c : S)
          {
              cnt[c - 'a'] += 100;
          }
