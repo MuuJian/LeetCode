@@ -46,6 +46,7 @@ LeetCode solutions in C++ 11.
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[C++](724.%20Find%20Pivot%20Index/solution.h)|Easy|
 |740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[C++](740.%20Delete%20and%20Earn/solution.h)|Medium|
 |767|[Reorganize String](https://leetcode.com/problems/reorganize-string/)|[C++](767.%20Reorganize%20String/solution.h)|Medium|
+|844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[C++](844.%20Backspace%20String%20Compare/solution.h)|Easy|
 |846|[846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[C++](846.%20Hand%20of%20Straights/solution.h)|Medium|
 |915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[C++](915.%20Partition%20Array%20into%20Disjoint%20Intervals/solution.h)|Medium|
 |908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[C++](908.%20Smallest%20Range%20I/solution.h)|Easy|
