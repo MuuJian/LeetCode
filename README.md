@@ -12,6 +12,7 @@ LeetCode solutions in C++ 11.
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](1.%20Two%20Sum/solution.h)|Easy|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](4.%20Median%20of%20Two%20Sorted%20Arrays/solution.h)|Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](5.%20Longest%20Palindromic%20Substring/solution.h)|Medium|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](20.%20Valid%20Parentheses/solution.h)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](21.%20Merge%20Two%20Sorted%20Lists/solution.h)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](35.%20Search%20Insert%20Position/solution.h)|Easy|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[C++](43.%20Multiply%20Strings/solution.h)|Medium|
@@ -37,6 +38,7 @@ LeetCode solutions in C++ 11.
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[C++](300.%20Longest%20Increasing%20Subsequence/solution.h)|Medium|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[C++](322.%20Coin%20Change/solution.h)|Medium|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[C++](324.%20Wiggle%20Sort%20II/solution.h)|Medium|
+|470|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)|[C++](470.%20Implement%20Rand10()%20Using%20Rand7()/solution.h)|Medium|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[C++](485.%20Max%20Consecutive%20Ones/solution.h)|Easy|
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/)|[C++](507.%20Perfect%20Number/solution.h)|Easy|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[C++](581.%20Shortest%20Unsorted%20Continuous%20Subarray/solution.h)|Easy|
