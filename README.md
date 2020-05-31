@@ -56,6 +56,7 @@ LeetCode solutions in C++ 11.
 |915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[C++](915.%20Partition%20Array%20into%20Disjoint%20Intervals/solution.h)|Medium|
 |908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[C++](908.%20Smallest%20Range%20I/solution.h)|Easy|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[C++](917.%20Reverse%20Only%20Letters/solution.h)|Easy|
+|954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[C++](954.%20Array%20of%20Doubled%20Pairs/solution.h)|Medium|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[C++](1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/solution.h)|Medium|
 |1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[C++](1041.%20Robot%20Bounded%20In%20Circle/solution.h)|Medium|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/)|[C++](1143.%20Longest%20Common%20Subsequence/solution.h)|Medium|
