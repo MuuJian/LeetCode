@@ -10,6 +10,7 @@ LeetCode solutions in C++ 11.
 |NO.|Title|Solution|Difficulty|
 |---|-----|--------|----------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](1.%20Two%20Sum/solution.h)|Easy|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](2.%20Add%20Two%20Numbers/solution.h)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](4.%20Median%20of%20Two%20Sorted%20Arrays/solution.h)|Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](5.%20Longest%20Palindromic%20Substring/solution.h)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](20.%20Valid%20Parentheses/solution.h)|Easy|
