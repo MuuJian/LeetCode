@@ -9,11 +9,11 @@
 class Solution {
 public:
     ListNode* insertionSortList(ListNode* head) {
-        ListNode *dummy = new ListNode(0), *curr = dummy;
+        ListNode dummy(0), *curr = &dummy;
         while(head)
         {
             ListNode *t = head -> next;
-            curr = dummy;
+            curr = &dummy;
             while(curr -> next != nullptr && curr -> next -> val <= head -> val)
             {
                 curr = curr -> next;
@@ -22,6 +22,6 @@ public:
             curr -> next = head;
             head = t;
         }
-        return dummy -> next;
+        return dummy.next;
     }
 };

@@ -9,8 +9,8 @@
 class Solution {
 public:
     ListNode* reverseBetween(ListNode* head, int m, int n) {
-        ListNode* dummy = new ListNode(0), *pre = dummy;
-        dummy -> next = head;
+        ListNode dummy(0), *pre = &dummy;
+        dummy.next = head;
         for(int i = 0; i < m - 1; ++i)
             pre = pre -> next;
         ListNode* curr = pre -> next, *Next;
@@ -21,6 +21,6 @@ public:
             Next -> next = pre -> next;
             pre -> next = Next;
         }
-        return dummy -> next;
+        return dummy.next;
     }
 };
