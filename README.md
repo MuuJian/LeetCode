@@ -57,6 +57,7 @@ LeetCode solutions in C++ 11.
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[C++](844.%20Backspace%20String%20Compare/solution.h)|Easy|
 |846|[846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[C++](846.%20Hand%20of%20Straights/solution.h)|Medium|
 |915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[C++](915.%20Partition%20Array%20into%20Disjoint%20Intervals/solution.h)|Medium|
+|914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[C++](914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards/solution.h)|Easy|
 |908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[C++](908.%20Smallest%20Range%20I/solution.h)|Easy|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[C++](917.%20Reverse%20Only%20Letters/solution.h)|Easy|
 |954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[C++](954.%20Array%20of%20Doubled%20Pairs/solution.h)|Medium|
