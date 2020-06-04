@@ -43,6 +43,7 @@ LeetCode solutions in C++ 11.
 |470|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)|[C++](470.%20Implement%20Rand10()%20Using%20Rand7()/solution.h)|Medium|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[C++](485.%20Max%20Consecutive%20Ones/solution.h)|Easy|
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/)|[C++](507.%20Perfect%20Number/solution.h)|Easy|
+|540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[C++](540.%20Single%20Element%20in%20a%20Sorted%20Array/solution.h)|Medium|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[C++](581.%20Shortest%20Unsorted%20Continuous%20Subarray/solution.h)|Easy|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[C++](589.%20N-ary%20Tree%20Preorder%20Traversal/solution.h)|Easy|
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[C++](611.%20Valid%20Triangle%20Number/solution.h)|Medium|
