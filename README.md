@@ -72,5 +72,6 @@ LeetCode solutions in C++ 11.
 |1248|[Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)|[C++](1248.%20Count%20Number%20of%20Nice%20Subarrays/solution.h)|Medium|
 |1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[C++](1262.%20Greatest%20Sum%20Divisible%20by%20Three/solution.h)|Medium|
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[C++](1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/solution.h)|Easy|
+|1324|[Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)|[C++](1324.%20Print%20Words%20Vertically/solution.h)|Medium|
 |1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[C++](1331.%20Rank%20Transform%20of%20an%20Array/solution.h)|Easy|
 |1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[C++](1380.%20Lucky%20Numbers%20in%20a%20Matrix/solution.h)|Easy|
