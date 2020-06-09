@@ -68,6 +68,7 @@ LeetCode solutions in C++ 11.
 |1114|[Print in Order](https://leetcode.com/problems/print-in-order/)|[C++](1114.%20Print%20in%20Order/solution.h)|Easy|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/)|[C++](1143.%20Longest%20Common%20Subsequence/solution.h)|Medium|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[C++](1154.%20Day%20of%20the%20Year/solution.h)|Easy|
+|1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)|[C++](1171.%20Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List/solution.h)|Medium|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[C++](1207.%20Unique%20Number%20of%20Occurrences/solution.h)|Easy|
 |1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[C++](1218.%20Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference/solution.h)|Medium|
 |1248|[Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)|[C++](1248.%20Count%20Number%20of%20Nice%20Subarrays/solution.h)|Medium|
