@@ -25,6 +25,7 @@ LeetCode solutions in C++ 11.
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[C++](129.%20Sum%20Root%20to%20Leaf%20Numbers/solution.h)|Medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[C++](147.%20Insertion%20Sort%20List/solution.h)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[C++](152.%20Maximum%20Product%20Subarray/solution.h)|Medium|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[C++](160.%20Intersection%20of%20Two%20Linked%20Lists/solution.h)|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[C++](167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/solution.h)|Easy|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[C++](179.%20Largest%20Number/solution.h)|Medium|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[C++](198.%20House%20Robber/solution.h)|Easy|
