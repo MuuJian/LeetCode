@@ -57,6 +57,7 @@ LeetCode solutions in C++ 11.
 |767|[Reorganize String](https://leetcode.com/problems/reorganize-string/)|[C++](767.%20Reorganize%20String/solution.h)|Medium|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[C++](844.%20Backspace%20String%20Compare/solution.h)|Easy|
 |846|[846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[C++](846.%20Hand%20of%20Straights/solution.h)|Medium|
+|859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/submissions/)|[C++](859.%20Buddy%20Strings/solution.h)|Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[C++](876.%20Middle%20of%20the%20Linked%20List/solution.h)|Easy|
 |915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[C++](915.%20Partition%20Array%20into%20Disjoint%20Intervals/solution.h)|Medium|
 |914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[C++](914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards/solution.h)|Easy|
