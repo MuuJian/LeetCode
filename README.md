@@ -39,6 +39,7 @@ LeetCode solutions in C++ 11.
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[C++](263.%20Ugly%20Number/solution.h)|Easy|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[C++](264.%20Ugly%20Number%20II/solution.h)|Medium|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[C++](300.%20Longest%20Increasing%20Subsequence/solution.h)|Medium|
+|307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[C++](307.%20Range%20Sum%20Query%20-%20Mutable/solution.h)|Medium|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[C++](322.%20Coin%20Change/solution.h)|Medium|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[C++](324.%20Wiggle%20Sort%20II/solution.h)|Medium|
 |470|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)|[C++](470.%20Implement%20Rand10()%20Using%20Rand7()/solution.h)|Medium|
