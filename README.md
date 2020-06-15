@@ -36,6 +36,7 @@ LeetCode solutions in C++ 11.
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](232.%20Implement%20Queue%20using%20Stacks/solution.h)|Easy|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|[C++](233.%20Number%20of%20Digit%20One/solution.h)|Hard|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[C++](238.%20Product%20of%20Array%20Except%20Self/solution.h)|Medium|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C++](258.%20Add%20Digits/solution.h)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[C++](263.%20Ugly%20Number/solution.h)|Easy|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[C++](264.%20Ugly%20Number%20II/solution.h)|Medium|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[C++](300.%20Longest%20Increasing%20Subsequence/solution.h)|Medium|
