@@ -69,6 +69,7 @@ LeetCode solutions in C++ 11.
 |908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[C++](908.%20Smallest%20Range%20I/solution.h)|Easy|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[C++](917.%20Reverse%20Only%20Letters/solution.h)|Easy|
 |954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[C++](954.%20Array%20of%20Doubled%20Pairs/solution.h)|Medium|
+|961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[C++](961.%20N-Repeated%20Element%20in%20Size%202N%20Array/solution.h)|Easy|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[C++](1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/solution.h)|Medium|
 |1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[C++](1041.%20Robot%20Bounded%20In%20Circle/solution.h)|Medium|
 |1114|[Print in Order](https://leetcode.com/problems/print-in-order/)|[C++](1114.%20Print%20in%20Order/solution.h)|Easy|
