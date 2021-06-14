@@ -23,6 +23,7 @@ LeetCode solutions in C++ 11.
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[C++](92.%20Reverse%20Linked%20List%20II/solution.h)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.h)|Easy|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[C++](129.%20Sum%20Root%20to%20Leaf%20Numbers/solution.h)|Medium|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[C++](144.%20Binary%20Tree%20Preorder%20Traversal/solution.h)|Easy|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[C++](147.%20Insertion%20Sort%20List/solution.h)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[C++](152.%20Maximum%20Product%20Subarray/solution.h)|Medium|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[C++](160.%20Intersection%20of%20Two%20Linked%20Lists/solution.h)|Easy|
@@ -47,6 +48,7 @@ LeetCode solutions in C++ 11.
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[C++](485.%20Max%20Consecutive%20Ones/solution.h)|Easy|
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/)|[C++](507.%20Perfect%20Number/solution.h)|Easy|
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[C++](540.%20Single%20Element%20in%20a%20Sorted%20Array/solution.h)|Medium|
+|572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[C++](572.%20Subtree%20of%20Another%20Tree/solution.h)|Easy|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[C++](581.%20Shortest%20Unsorted%20Continuous%20Subarray/solution.h)|Easy|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[C++](589.%20N-ary%20Tree%20Preorder%20Traversal/solution.h)|Easy|
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[C++](611.%20Valid%20Triangle%20Number/solution.h)|Medium|
