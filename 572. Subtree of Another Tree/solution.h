@@ -25,7 +25,7 @@ public:
             return true;
         else if(!root || !subRoot)
             return false;
-        return (root->val==subRoot->val and PreOrderTraverse(root->left,subRoot->left)
-                and PreOrderTraverse(root->right,subRoot->right));
+        return (root->val==subRoot->val && PreOrderTraverse(root->left,subRoot->left)
+                && PreOrderTraverse(root->right,subRoot->right));
     }
 };
