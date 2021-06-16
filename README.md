@@ -56,6 +56,7 @@ LeetCode solutions in C++ 11.
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[C++](653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/solution.h)|Easy|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[C++](680.%20Valid%20Palindrome%20II/solution.h)|Easy|
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[C++](693.%20Binary%20Number%20with%20Alternating%20Bits/solution.h)|Easy|
+|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[C++](695.%20Max%20Area%20of%20Island/solution.h)|Medium|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[C++](700.%20Search%20in%20a%20Binary%20Search%20Tree/solution.h)|Easy|
 |708|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[C++](709.%20To%20Lower%20Case/solution.h)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[C++](724.%20Find%20Pivot%20Index/solution.h)|Easy|
