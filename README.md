@@ -63,6 +63,7 @@ LeetCode solutions in C++ 11.
 |740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[C++](740.%20Delete%20and%20Earn/solution.h)|Medium|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[C++](747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/solution.h)|Easy|
 |767|[Reorganize String](https://leetcode.com/problems/reorganize-string/)|[C++](767.%20Reorganize%20String/solution.h)|Medium|
+|788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[C++](788.%20Rotated%20Digits/solution.h)|Easy|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[C++](844.%20Backspace%20String%20Compare/solution.h)|Easy|
 |846|[846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[C++](846.%20Hand%20of%20Straights/solution.h)|Medium|
 |870|[Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)|[C++](870.%20Advantage%20Shuffle/solution.h)|Medium|
