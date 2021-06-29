@@ -44,6 +44,7 @@ LeetCode solutions in C++ 11.
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[C++](307.%20Range%20Sum%20Query%20-%20Mutable/solution.h)|Medium|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[C++](322.%20Coin%20Change/solution.h)|Medium|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[C++](324.%20Wiggle%20Sort%20II/solution.h)|Medium|
+|405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)|[C++](405.%20Convert%20a%20Number%20to%20Hexadecimal/solution.h)|Easy|
 |470|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)|[C++](470.%20Implement%20Rand10()%20Using%20Rand7()/solution.h)|Medium|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[C++](485.%20Max%20Consecutive%20Ones/solution.h)|Easy|
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/)|[C++](507.%20Perfect%20Number/solution.h)|Easy|
